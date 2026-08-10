@@ -1,0 +1,6 @@
+/* Application-specific styles (Bootstrap provides the base look). */
+
+.navbar .nav-link.active {
+  font-weight: 600;
+  text-decoration: underline;
+}
